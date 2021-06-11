@@ -1,4 +1,4 @@
-# InterNeural: An Efficient Framework forHigh Dimensional Non-linear Contextual Bandits
+# Interconnected Neural-Linear Contextual Bandits with UCB Exploration
 
 ## Table of Contents
 
